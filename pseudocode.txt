@@ -1,0 +1,18 @@
+# Southern Labs Institute of Technology
+# Student : Tshepo Mamakoko
+# Instructor : Idah Khumalo
+
+# Pseudocode for ATM PIN Verification System
+
+BEGIN
+
+DISPLAY "Welcome to the app"
+INPUT "enter your pin : "
+
+IF pin is valid
+DISPLAY "Pin okay Access Granted"
+
+ELSE
+DISPLAY "Incorrect PIN, try again"
+
+END
